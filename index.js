@@ -1,4 +1,4 @@
 function alertUser()
 {
-  alert("Thank you for viewing this project");
+  alert("This project was developed as progress in my Front end development journey by Imani Kadiva");
 }
