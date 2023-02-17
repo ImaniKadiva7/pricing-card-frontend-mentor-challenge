@@ -1,4 +1,4 @@
 function alertUser()
 {
-  alert("Thank you for viewing this project");
+  alert("This project is a response to showcase my front-end skills by Imani Kadiva");
 }
